@@ -13,37 +13,104 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 34 plugins to load
+[Info   :   BepInEx] 41 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.13.7]
+[Info   :   BepInEx] Loading [AMPED - Auto Map Pins Enhanced 1.3.5]
+[Info   :   BepInEx] Loading [AzuAntiArthriticCrafting 1.0.10]
+[Info   :   BepInEx] Loading [ModAge 1.0.1]
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #0 - 'localization' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #1 - 'localization_extra' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #2 - 'heightmap_message' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #3 - 'localization_hildir' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:37: Loaded localization file #4 - 'localization_emotes' language: 'Russian'
+
+[Info   :   BepInEx] Loading [Configuration Manager 18.0.1]
+[Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.12]
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #0 - 'localization' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #1 - 'localization_extra' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #2 - 'heightmap_message' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #3 - 'localization_hildir' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #4 - 'localization_emotes' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   :   BepInEx] Loading [Jewelcrafting 1.4.21]
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #0 - 'localization' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #1 - 'localization_extra' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #2 - 'heightmap_message' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #3 - 'localization_hildir' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:38: Loaded localization file #4 - 'localization_emotes' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:28:39: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:39: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:39: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:39: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:28:39: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
 [Info   :   BepInEx] Loading [Recycle_N_Reclaim 1.1.8]
-[Info   : Unity Log] 09/18/2023 19:49:05: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:05: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:05: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:05: Loaded localization file #3 - 'localization_hildir' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:05: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:06: Loaded localization file #0 - 'localization' language: 'Russian'
-
-[Info   : Unity Log] 09/18/2023 19:49:06: Loaded localization file #1 - 'localization_extra' language: 'Russian'
-
-[Info   : Unity Log] 09/18/2023 19:49:06: Loaded localization file #2 - 'heightmap_message' language: 'Russian'
-
-[Info   : Unity Log] 09/18/2023 19:49:06: Loaded localization file #3 - 'localization_hildir' language: 'Russian'
-
-[Info   : Unity Log] 09/18/2023 19:49:06: Loaded localization file #4 - 'localization_emotes' language: 'Russian'
-
+[Info   :   BepInEx] Loading [BalrondShipyard 1.2.2]
 [Info   :   BepInEx] Loading [MagicPlugin 1.6.3]
+[Info   :   BepInEx] Loading [SapExtractor 1.0.7]
 [Info   :   BepInEx] Loading [VikingsDoSwim 1.2.5]
 [Info   :   BepInEx] Loading [VerticallyChallenged 1.0.0]
-[Info   :   BepInEx] Loading [Project Auga 1.2.17]
-[Warning: Unity Log] Has Chatter: False - Has Sears: False
-[Info   :   BepInEx] Loading [Epic Loot 0.9.22]
+[Info   :   BepInEx] Loading [Item Drawers 0.5.6]
+[Info   :AuthoritativeConfig_mkz.itemdrawers] Initialized Server Authoritative Config Manager.
 [Info   :   BepInEx] Loading [Adventure Backpacks 1.6.26]
 [Info   :   BepInEx] Loading [CFCMod 1.1.6]
-[Info   :   BepInEx] Loading [Configuration Manager 18.0.1]
 [Info   :   BepInEx] Loading [Jotunn 2.12.7]
 [Info   :    Jotunn] Initializing LocalizationManager
 [Info   :    Jotunn] Initializing CommandManager
@@ -89,56 +156,25 @@
 [Info   :Terraheim.Log] Modifying the huscarl set.
 [Info   :Terraheim.Log] Modifying the gesith set.
 [Info   :Terraheim.Log] Modifying the alne set.
-[Info   :Terraheim.Log] Auga detected, modifying Auga tooltips for Terraheim.
 [Info   :Terraheim.Log] Patching complete
 [Info   :   BepInEx] Loading [TerraheimItems 2.3.8]
 [Warning:TerraheimItems] No translation file found for Russian; defaulting to English
 [Info   :TerraheimItems] Loaded localization for English
 [Message:TerraheimItems] New Bundle Loaded
 [Info   :TerraheimItems] Patching complete
-[Info   :   BepInEx] Loading [Digitalroot's Bounties 3.0.3]
 [Info   :   BepInEx] Loading [Digitalroot TripleBronzeJVL 1.1.31]
 [Info   :   BepInEx] Loading [LevelingSystem 0.5.8]
 [Info   :   BepInEx] Loading [ServerSideMap 1.3.9.0]
 [Info   :ServerSideMap] Store1: False
 [Info   :ServerSideMap] Store2: False
+[Info   :   BepInEx] Loading [SkipIntro 0.0.1]
+[Info   :   BepInEx] Loading [FastTeleport 1.1.0]
 [Info   :   BepInEx] Loading [Instantly Destroy Boats and Carts 1.0.3]
-[Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.12]
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #3 - 'localization_hildir' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #0 - 'localization' language: 'Russian'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #1 - 'localization_extra' language: 'Russian'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #2 - 'heightmap_message' language: 'Russian'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #3 - 'localization_hildir' language: 'Russian'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #4 - 'localization_emotes' language: 'Russian'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #0 - 'localization' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #1 - 'localization_extra' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #2 - 'heightmap_message' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #3 - 'localization_hildir' language: 'English'
-
-[Info   : Unity Log] 09/18/2023 19:49:27: Loaded localization file #4 - 'localization_emotes' language: 'English'
-
+[Info   :   BepInEx] Loading [Quick Stack - Store - Sort - Trash - Restock 1.4.1]
 [Info   :   BepInEx] Loading [HS_EnhancedBosses 1.10.4]
 [Info   :   BepInEx] Loading [ProcreationPlus 1.0.5]
 [Info   :   BepInEx] Loading [Steady Regeneration 1.0.2]
 [Info   :   BepInEx] Loading [TargetPortal 1.1.10]
-[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.1]
 [Info   :   BepInEx] Loading [Build Camera 1.7.0]
 [Info   :   BepInEx] Loading [UsefulTrophies 1.0.3]
 [Info   :   BepInEx] Loading [ForcePVP 1.0.0.5]
@@ -146,38 +182,98 @@
 [Info   :   BepInEx] Loading [Equipment and Quick Slots 2.1.7]
 [Info   :   BepInEx] Loading [MassFarming 1.9]
 [Message:   BepInEx] Chainloader startup complete
-[Warning: Unity Log] 09/18/2023 19:49:29: Fetching PlatformPrefs 'GuiScale' before loading defaults
+[Warning: Unity Log] 09/19/2023 19:28:51: Fetching PlatformPrefs 'GuiScale' before loading defaults
 
-[Warning: Unity Log] 09/18/2023 19:49:29: Fetching PlatformPrefs 'GuiScale' before loading defaults
+[Warning: Unity Log] 09/19/2023 19:28:51: Fetching PlatformPrefs 'GuiScale' before loading defaults
 
-[Info   : Unity Log] 09/18/2023 19:49:29: Starting to load scene:start
+[Info   : Unity Log] 09/19/2023 19:28:52: Starting to load scene:start
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 09/18/2023 19:49:38: Using steam_appid.txt
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #0 - 'localization' language: 'English'
 
-[Info   : Unity Log] 09/18/2023 19:49:38: Using steam APPID:892970
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #1 - 'localization_extra' language: 'English'
 
-[Info   : Unity Log] 09/18/2023 19:49:38: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #2 - 'heightmap_message' language: 'English'
 
-[Info   : Unity Log] 09/18/2023 19:49:38: Steam initialized, persona:Morgott
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #3 - 'localization_hildir' language: 'English'
 
-[Info   : Unity Log] 09/18/2023 19:49:38: PlayFab custom ID set to "Steam_76561197996210591"
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #4 - 'localization_emotes' language: 'English'
 
-[Info   : Unity Log] 09/18/2023 19:49:38: Using default prefs
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #0 - 'localization' language: 'Russian'
 
-[Info   : Unity Log] 09/18/2023 19:49:38: Valheim version: 0.217.14 (network version 12)
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #1 - 'localization_extra' language: 'Russian'
 
-[Info   : Unity Log] 09/18/2023 19:49:38: Worldgenerator version setup:2
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #2 - 'heightmap_message' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #3 - 'localization_hildir' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #4 - 'localization_emotes' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:01: Loaded localization file #0 - 'localization' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Loaded localization file #1 - 'localization_extra' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Loaded localization file #2 - 'heightmap_message' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Loaded localization file #3 - 'localization_hildir' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Loaded localization file #4 - 'localization_emotes' language: 'Russian'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Using environment steamid 892970
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Using steam APPID:892970
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Steam initialized, persona:Morgott
+
+[Info   : Unity Log] 09/19/2023 19:29:02: PlayFab custom ID set to "Steam_76561197996210591"
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Using default prefs
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Valheim version: 0.217.14 (network version 12)
+
+[Info   : Unity Log] 09/19/2023 19:29:02: Worldgenerator version setup:2
 
 [Info   :Jotunn.Managers.CommandManager] Adding 7 commands to the Console
-[Info   : Unity Log] 09/18/2023 19:49:38: Render threading mode:MultiThreaded
+[Info   : Unity Log] 09/19/2023 19:29:02: Render threading mode:MultiThreaded
 
 [Info   :Jotunn.Managers.InputManager] Registering 1 custom inputs
-[Warning: Unity Log] 09/18/2023 19:49:38: Missing audio clip in music respawn
+[Warning: Unity Log] 09/19/2023 19:29:02: Missing audio clip in music respawn
 
-[Info   : Unity Log] 09/18/2023 19:49:38: Checking for installed DLCs
+[Info   : Unity Log] 09/19/2023 19:29:02: Checking for installed DLCs
 
-[Info   : Unity Log] 09/18/2023 19:49:38: DLC:beta installed:False
+[Info   : Unity Log] 09/19/2023 19:29:02: DLC:beta installed:False
 
 [Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
 [Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
@@ -198,55 +294,104 @@
 [Message:HS_EnhancedBosses] Setting up custom status effects...
 [Message:HS_EnhancedBosses] Done.
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 09/18/2023 19:49:39: Sending PlayFab login request (attempt 1)
+[Info   : Unity Log] 09/19/2023 19:29:03: Vis equip model set to 1
 
-[Info   : Unity Log] 09/18/2023 19:49:39: Ticket is System.Byte[] of length 369
+[Info   : Unity Log] 09/19/2023 19:29:03: Sending PlayFab login request (attempt 1)
 
-[Info   : Unity Log] 09/18/2023 19:49:39: Session auth respons callback
+[Info   : Unity Log] 09/19/2023 19:29:03: Ticket is System.Byte[] of length 369
 
-[Info   : Unity Log] 09/18/2023 19:49:39: Starting music menu
+[Info   : Unity Log] 09/19/2023 19:29:03: Session auth respons callback
 
-[Info   : Unity Log] 09/18/2023 19:49:40: PlayFab logged in as "Steam_76561197996210591"
+[Info   : Unity Log] 09/19/2023 19:29:03: Starting music menu
 
-[Info   : Unity Log] 09/18/2023 19:49:40: PlayFab local entity ID is 5FBAC16F4EE6822A
+[Info   : Unity Log] 09/19/2023 19:29:04: PlayFab logged in as "Steam_76561197996210591"
 
-[Info   : Unity Log] 09/18/2023 19:49:45: show character selection
+[Info   : Unity Log] 09/19/2023 19:29:04: PlayFab local entity ID is 5FBAC16F4EE6822A
 
-[Info   : Unity Log] 09/18/2023 19:49:46: OnCharacterStart
+[Info   : Unity Log] 09/19/2023 19:29:07: show character selection
 
-[Info   : Unity Log] 09/18/2023 19:49:49: Loading main scene
+[Info   : Unity Log] 09/19/2023 19:29:12: Remove character
 
-[Info   : Unity Log] 09/18/2023 19:49:49: Steam initialized, persona:Morgott
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 09/19/2023 19:29:16: Failed to find item prefab odin_hammer
 
-[Info   : Unity Log] 09/18/2023 19:49:49: PlayFab custom ID set to "Steam_76561197996210591"
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+Player.SetPVP (System.Boolean enabled) (at <447b19510f604ca3807cd6cce3a7c1ef>:0)
+ForcedPVP.KeyPress.Postfix (Player& __instance) (at <2518b2e484a24ceea1e54e340798c397>:0)
+(wrapper dynamic-method) Player.DMD<Player::Update>(Player)
 
-[Info   : Unity Log] 09/18/2023 19:49:49: Using default prefs
+[Info   : Unity Log] 09/19/2023 19:29:41: Set hair 1
+
+[Info   : Unity Log] 09/19/2023 19:29:42: Set hair 3
+
+[Info   : Unity Log] 09/19/2023 19:29:42: Set hair 4
+
+[Info   : Unity Log] 09/19/2023 19:29:44: Cloud Save: 907 bytes. /characters/tmp.fch.new
+
+[Info   : Unity Log] 09/19/2023 19:29:44: Steam writing file chunks 1 / 1, (907 bytes)
+
+[Info   : Unity Log] 09/19/2023 19:29:44: Steam Cloud Move: 907 bytes. /characters/tmp.fch.new -> /characters/tmp.fch
+
+[Info   : Unity Log] 09/19/2023 19:29:44: Steam writing file chunks 1 / 1, (907 bytes)
+
+[Info   : Unity Log] 09/19/2023 19:29:44: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 2
+
+[Info   : Unity Log] 09/19/2023 19:29:44: Creating first autobackup
+
+[Info   : Unity Log] 09/19/2023 19:29:44: Saving backup at: tmp_backup_auto-20230919192944
+
+[Info   : Unity Log] 09/19/2023 19:29:44: Cloud Copy: 907 bytes. characters/tmp.fch -> characters/tmp_backup_auto-20230919192944.fch
+
+[Info   : Unity Log] 09/19/2023 19:29:44: Steam writing file chunks 1 / 1, (907 bytes)
+
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 09/19/2023 19:29:47: OnCharacterStart
+
+[Info   : Unity Log] 09/19/2023 19:29:54: Loading main scene
+
+[Info   : Unity Log] 09/19/2023 19:29:54: Steam initialized, persona:Morgott
+
+[Info   : Unity Log] 09/19/2023 19:29:54: PlayFab custom ID set to "Steam_76561197996210591"
+
+[Info   : Unity Log] 09/19/2023 19:29:54: Using default prefs
 
 [Info   :Jotunn.Managers.CommandManager] Adding 7 commands to the Console
-[Info   : Unity Log] 09/18/2023 19:49:49: Loading player profile morgott
+[Info   : Unity Log] 09/19/2023 19:29:54: Loading player profile tmp
 
-[Info   : Unity Log] 09/18/2023 19:49:49: isModded: True
+[Info   : Unity Log] 09/19/2023 19:29:54: isModded: True
 
-[Info   : Unity Log] 09/18/2023 19:49:49: Zonesystem Awake 1138
+[Info   : Unity Log] 09/19/2023 19:29:54: Zonesystem Awake 3557
 
-[Info   : Unity Log] 09/18/2023 19:49:49: DungeonDB Awake 1138
+[Info   : Unity Log] 09/19/2023 19:29:54: DungeonDB Awake 3557
 
-[Info   : Unity Log] 09/18/2023 19:49:49: Steam initialized, persona:Morgott
+[Info   : Unity Log] 09/19/2023 19:29:54: Steam initialized, persona:Morgott
 
-[Info   : Unity Log] 09/18/2023 19:49:49: Worldgenerator version setup:1
+[Info   : Unity Log] 09/19/2023 19:29:54: Worldgenerator version setup:2
 
+[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Jewelcrafting ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.jewelcrafting PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.jewelcrafting ItemManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'Azumatt.Recycle_N_Reclaim ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'blacks7ar.MagicPlugin ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'blacks7ar.SapExtractor ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'blacks7ar.VikingsDoSwim ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'vapok.mods.adventurebackpacks ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'vapok.mods.adventurebackpacks ItemManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'dk.thrakal.LevelingSystem ConfigSync' RPC - waiting for incoming connections
 [Info   :ServerSideMap] ZNet awake
-[Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'hs.enhancedbosses ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'maxfoxgaming.procreationplus ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'TargetPortal ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'goldenrevolver.quick_stack_store ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'CFCMod ConfigSync' RPC - waiting for incoming connections
 [Info   :Jotunn.Managers.PrefabManager] Adding 250 custom prefabs to the ZNetScene
 [Warning: Unity Log] Couldn't create a Convex Mesh from source mesh "ShortFlatRock_A" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
@@ -267,146 +412,313 @@ Creature name: Lox
 Maximum Stars: 1
 Levelup Chance: 5%
 
-[Info   : Unity Log] 09/18/2023 19:49:51: Audioman already exist, destroying self
+[Info   : Unity Log] 09/19/2023 19:29:56: Audioman already exist, destroying self
 
-[Info   : Unity Log] 09/18/2023 19:49:51: Checking for installed DLCs
+[Info   : Unity Log] 09/19/2023 19:29:56: Checking for installed DLCs
 
-[Info   : Unity Log] 09/18/2023 19:49:51: DLC:beta installed:False
+[Info   : Unity Log] 09/19/2023 19:29:56: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.ItemManager] Adding 212 custom items to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 217 custom recipes to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 88 custom status effects to the ObjectDB
 [Info   :Jotunn.Managers.PieceManager] Adding 29 custom pieces to the PieceTables
 [Info   :ServerSideMap] Minimap awake
+[Error  : Unity Log] ArgumentException: The Object you want to instantiate is null.
+Stack trace:
+UnityEngine.Object.Instantiate (UnityEngine.Object original, UnityEngine.Transform parent, System.Boolean instantiateInWorldSpace) (at <80fe1a4e36fe44618284312cb721a597>:0)
+UnityEngine.Object.Instantiate[T] (T original, UnityEngine.Transform parent, System.Boolean worldPositionStays) (at <80fe1a4e36fe44618284312cb721a597>:0)
+UnityEngine.Object.Instantiate[T] (T original, UnityEngine.Transform parent) (at <80fe1a4e36fe44618284312cb721a597>:0)
+Jewelcrafting.SocketsBackground.ApplyToElementPrefab (UnityEngine.GameObject& activePrefab, UnityEngine.GameObject& elementPrefab, System.Boolean disableImage) (at <8e2c909543fa4e33875e413f72c1f4ed>:0)
+Jewelcrafting.SocketsBackground+ReplaceBackgroundInventory.Prefix (InventoryGrid __instance) (at <8e2c909543fa4e33875e413f72c1f4ed>:0)
+(wrapper dynamic-method) InventoryGrid.DMD<InventoryGrid::Awake>(InventoryGrid)
+UnityEngine.GameObject:AddComponent()
+EquipmentAndQuickSlots.InventoryGui_Awake_Patch:BuildInventoryGrid(InventoryGrid&, String, Vector2, Vector2, InventoryGui)
+EquipmentAndQuickSlots.InventoryGui_Awake_Patch:BuildQuickSlotGrid(InventoryGui)
+EquipmentAndQuickSlots.InventoryGui_Awake_Patch:Postfix(InventoryGui)
+InventoryGui:DMD<InventoryGui::Awake>(InventoryGui)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+InstantiatePrefab:Awake()
+
+[Error  : Unity Log] ArgumentException: The Object you want to instantiate is null.
+Stack trace:
+UnityEngine.Object.Instantiate (UnityEngine.Object original, UnityEngine.Transform parent, System.Boolean instantiateInWorldSpace) (at <80fe1a4e36fe44618284312cb721a597>:0)
+UnityEngine.Object.Instantiate[T] (T original, UnityEngine.Transform parent, System.Boolean worldPositionStays) (at <80fe1a4e36fe44618284312cb721a597>:0)
+UnityEngine.Object.Instantiate[T] (T original, UnityEngine.Transform parent) (at <80fe1a4e36fe44618284312cb721a597>:0)
+Jewelcrafting.SocketsBackground.ApplyToElementPrefab (UnityEngine.GameObject& activePrefab, UnityEngine.GameObject& elementPrefab, System.Boolean disableImage) (at <8e2c909543fa4e33875e413f72c1f4ed>:0)
+Jewelcrafting.SocketsBackground+ReplaceBackgroundInventory.Prefix (InventoryGrid __instance) (at <8e2c909543fa4e33875e413f72c1f4ed>:0)
+(wrapper dynamic-method) InventoryGrid.DMD<InventoryGrid::Awake>(InventoryGrid)
+UnityEngine.GameObject:AddComponent()
+EquipmentAndQuickSlots.InventoryGui_Awake_Patch:BuildInventoryGrid(InventoryGrid&, String, Vector2, Vector2, InventoryGui)
+EquipmentAndQuickSlots.InventoryGui_Awake_Patch:BuildEquipmentSlotGrid(InventoryGui)
+EquipmentAndQuickSlots.InventoryGui_Awake_Patch:Postfix(InventoryGui)
+InventoryGui:DMD<InventoryGui::Awake>(InventoryGui)
+UnityEngine.Object:Instantiate(GameObject, Transform)
+InstantiatePrefab:Awake()
+
+[Info   :AuthoritativeConfig_mkz.itemdrawers] Authoritative Config Registered -> AuthoritativeConfig_mkz.itemdrawers
 [Info   :Jotunn.Managers.NetworkManager] Registering 15 custom RPCs
-[Info   : Unity Log] 09/18/2023 19:49:54: Zonesystem Start 1138
+[Info   : Unity Log] 09/19/2023 19:29:59: Zonesystem Start 3557
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+[Info   : Unity Log] 09/19/2023 19:30:00: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+[Info   : Unity Log] 09/19/2023 19:30:00: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+[Info   : Unity Log] 09/19/2023 19:30:00: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+[Info   : Unity Log] 09/19/2023 19:30:00: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
 
-[Info   : Unity Log] 09/18/2023 19:49:55: DungeonDB Start 1138
+[Info   : Unity Log] 09/19/2023 19:30:00: DungeonDB Start 3557
 
-[Info   : Unity Log] 09/18/2023 19:49:55: ZRpc timeout set to 30s 
+[Info   : Unity Log] 09/19/2023 19:30:00: ZRpc timeout set to 30s 
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Load world: Letsplay (Letsplay)
+[Info   : Unity Log] 09/19/2023 19:30:00: Load world: jewel (jewel)
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Loading 110597 zdos, my sessionID: 3930170061, data version: 32
+[Info   : Unity Log] 09/19/2023 19:30:00: Loading 38999 zdos, my sessionID: 4045577853, data version: 32
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Creating ZDOs
+[Info   : Unity Log] 09/19/2023 19:30:00: Creating ZDOs
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Loading in ZDOs
+[Info   : Unity Log] 09/19/2023 19:30:00: Loading in ZDOs
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Adding to Dictionary
+[Info   : Unity Log] 09/19/2023 19:30:00: Adding to Dictionary
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Adding to Sectors
+[Info   : Unity Log] 09/19/2023 19:30:00: Adding to Sectors
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Connecting Portals, Spawners & ZSyncTransforms
+[Info   : Unity Log] 09/19/2023 19:30:00: Connecting Portals, Spawners & ZSyncTransforms
 
-[Info   : Unity Log] ConnectPortals => Connected 1 portals.
-[Info   : Unity Log] ConnectSpawners => Connected 92 spawners and 332 'done' spawners.
-[Info   : Unity Log] 09/18/2023 19:49:55: Loaded 9936 locations
+[Info   : Unity Log] 09/19/2023 19:30:00: Loaded 10067 locations
 
-[Info   : Unity Log] 09/18/2023 19:49:55: Unloading unused assets
+[Info   : Unity Log] 09/19/2023 19:30:00: Unloading unused assets
 
-[Info   :ServerSideMap] World .explored save path: /worlds/Letsplay
+[Info   :ServerSideMap] World .explored save path: /worlds/jewel
 [Info   :ServerSideMap] new explore file generated
-[Info   : Unity Log] 09/18/2023 19:49:55: PrepareSave: clone done in 18ms
+[Info   : Unity Log] 09/19/2023 19:30:00: PrepareSave: clone done in 3ms
 
-[Info   : Unity Log] 09/18/2023 19:49:56: PrepareSave: ZDOExtraData.PrepareSave done in 18 ms
+[Info   : Unity Log] 09/19/2023 19:30:00: PrepareSave: ZDOExtraData.PrepareSave done in 10 ms
 
 [Info   :ServerSideMap] Map saved. Pin Count: 0
-[Info   :ServerSideMap] World .explored save path: /worlds/Letsplay
-[Warning:Jotunn.Managers.KeyHintManager] Could not find child objects for KeyHints
-[Info   : Unity Log] 09/18/2023 19:49:56: Starting respawn
+[Info   :ServerSideMap] World .explored save path: /worlds/jewel
+[Info   : Unity Log] 09/19/2023 19:30:01: Starting respawn
 
-[Info   : Unity Log] 09/18/2023 19:49:56: Session auth respons callback
+[Info   : Unity Log] 09/19/2023 19:30:01: Session auth respons callback
 
-[Info   : Unity Log] 09/18/2023 19:50:02: Unpacking compressed mapdata 8915
+[Info   : Unity Log] 09/19/2023 19:30:06: tip:$loadscreen_tip11
 
-[Info   : Unity Log] 09/18/2023 19:50:04: tip:$loadscreen_tip17
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Spawned after 8,019994
+[Info   : Unity Log] 09/19/2023 19:30:25: Force generating hmap (0.0, 0.0, -64.0)
 
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newrecipe:Chef Hat
+[Warning: Unity Log] 09/19/2023 19:30:26: Missing stat for guardian power: 
 
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newrecipe:$bmp_skulltotem
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newrecipe:$vds_atlantian_crown
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_hopper_bronze_down
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_hopper_bronze_side
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_horizontal_4m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_horizontal_2m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_vertical_up_4m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_vertical_down_4m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_vertical_up_2m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_vertical_down_2m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_diagonal_45_up_4m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_diagonal_45_down_4m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_diagonal_26_up_4m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_pipe_bronze_diagonal_26_down_4m
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_hopper_iron_down
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:$piece_hopper_iron_side
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:Grill
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:Stone Griddle
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:Oven
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:Smokeless Firepit
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:Smokeless Hearth
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:Prep Table
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Queue unlock msg:$msg_newpiece:Smokeless Brazier
-
-[Info   : Unity Log] 09/18/2023 19:50:13: Skipping unloading unused assets
+[Info   : Unity Log] 09/19/2023 19:30:26: Skipping unloading unused assets
 
 [Info   :      VNEI] Index items and recipes
-[Info   :      VNEI] Loaded 1356 items and 2111 recipes
-[Info   : Unity Log] 09/18/2023 19:50:14: Minimap: Adding unique location (-123.2, 35.3, -0.8)
+[Info   :      VNEI] Loaded 1591 items and 2334 recipes
+[Info   : Unity Log] 09/19/2023 19:30:27: Minimap: Adding unique location (2.9, 78.4, -2.6)
 
-[Info   : Unity Log] 09/18/2023 19:50:14: Minimap: Adding unique location (-1163.1, 37.2, 1274.9)
+[Info   : Unity Log] 09/19/2023 19:30:29: Starting music meadows
 
-[Info   : Unity Log] 09/18/2023 19:50:16: Starting music meadows
+[Info   : Unity Log] 09/19/2023 19:30:29: Resumed music meadows at 0
 
-[Info   : Unity Log] 09/18/2023 19:50:16: Resumed music meadows at 0
+[Info   : Unity Log] 09/19/2023 19:30:35: Setting selected recipe -1
 
-[Info   : Unity Log] 09/18/2023 19:50:30: Setting selected recipe 0
+[Info   : Unity Log] 09/19/2023 19:30:43: Setting selected recipe -1
 
-[Info   : Unity Log] 09/18/2023 19:51:08: Setting selected recipe 0
+[Info   : Unity Log] 09/19/2023 19:30:43: Setting selected recipe -1
 
-[Info   : Unity Log] 09/18/2023 19:51:08: Setting selected recipe 0
+[Info   : Unity Log] 09/19/2023 19:30:45: Queue unlock msg:$msg_newitem:$item_torch
 
-[Info   : Unity Log] 09/18/2023 19:51:08: Setting selected recipe 0
+[Info   : Unity Log] 09/19/2023 19:30:45: Queue unlock msg:$msg_newitem:$item_chest_wolf_t0
 
-[Info   : Unity Log] 09/18/2023 19:52:26: Valid True
+[Info   : Unity Log] 09/19/2023 19:30:49: Queue unlock msg:$msg_newitem:$item_chest_rags
 
-[Info   : Unity Log] 09/18/2023 19:52:26: On death False
+[Info   : Unity Log] 09/19/2023 19:31:14: Setting selected recipe -1
 
-[Info   : Unity Log] 09/18/2023 19:52:26: Valid True
+[Info   : Unity Log] 09/19/2023 19:31:16: Setting selected recipe -1
 
-[Info   : Unity Log] 09/18/2023 19:52:26: On death False
+[Info   : Unity Log] 09/19/2023 19:31:28: Queue unlock msg:$msg_newitem:$vapok_mod_item_arctic_backpack
 
-[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Info   : Unity Log] 09/19/2023 19:31:40: Starting music evening
+
+[Info   : Unity Log] 09/19/2023 19:31:41: Stopped music meadows at 3170495
+
+[Info   : Unity Log] 09/19/2023 19:31:57: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:32:13: Queue unlock msg:$msg_newitem:$item_atgeir_himminafl
+
+[Info   : Unity Log] 09/19/2023 19:32:52: Queue unlock msg:$msg_newitem:$vds_atlantian_crown
+
+[Info   : Unity Log] 09/19/2023 19:32:54: Setting selected recipe -1
+
+[Warning: Unity Log] 09/19/2023 19:33:11: Trying to add invalid pin type: 317
+
+[Info   : Unity Log] 09/19/2023 19:33:13: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:33:57: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:34:02: SIZE 0
+
+[Info   : Unity Log] 09/19/2023 19:34:12: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:34:30: Queue unlock msg:$msg_newitem:$bmp_mountainstew
+
+[Info   : Unity Log] 09/19/2023 19:34:32: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:34:46: Queue unlock msg:$msg_newitem:$item_serpentmeatcooked
+
+[Info   : Unity Log] 09/19/2023 19:34:47: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:34:52: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:34:54: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:34:56: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:34:56: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:34:58: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:35:01: Queue unlock msg:$msg_newitem:Burger
+
+[Info   : Unity Log] 09/19/2023 19:35:03: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:35:03: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:35:06: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:35:18: Queue unlock msg:$msg_newitem:$bmp_staffheal
+
+[Info   : Unity Log] 09/19/2023 19:35:27: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:35:31: Queue unlock msg:$msg_newitem:$item_mead_hp_major
+
+[Info   : Unity Log] 09/19/2023 19:35:33: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:35:47: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:36:04: Update PlayFab entity token
+
+[Error  : Unity Log] ArgumentException: The Object you want to instantiate is null.
+Stack trace:
+UnityEngine.Object.Instantiate[T] (T original) (at <80fe1a4e36fe44618284312cb721a597>:0)
+Humanoid.PickupPrefab (UnityEngine.GameObject prefab, System.Int32 stackSize, System.Boolean autoequip) (at <447b19510f604ca3807cd6cce3a7c1ef>:0)
+Humanoid.GiveDefaultItem (UnityEngine.GameObject prefab) (at <447b19510f604ca3807cd6cce3a7c1ef>:0)
+Humanoid.GiveDefaultItems () (at <447b19510f604ca3807cd6cce3a7c1ef>:0)
+Humanoid.Start () (at <447b19510f604ca3807cd6cce3a7c1ef>:0)
+
+[Info   : Unity Log] 09/19/2023 19:36:51: Setting selected recipe -1
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+BaseAI.Awake () (at <447b19510f604ca3807cd6cce3a7c1ef>:0)
+MonsterAI.Awake () (at <447b19510f604ca3807cd6cce3a7c1ef>:0)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+VNEI.UI.DisplayItem:CheatItem()
+VNEI.UI.DisplayItem:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.EventSystem:Update()
+
+[Info   : Unity Log] 09/19/2023 19:37:29: Queue unlock msg:$msg_newstation:$piece_workbench
+
+[Info   : Unity Log] 09/19/2023 19:37:57: Setting selected recipe -1
+
+[Info   : Unity Log] 09/19/2023 19:38:05: Starting music boss_queen
+
+[Info   : Unity Log] 09/19/2023 19:38:19: Valid True
+
+[Info   : Unity Log] 09/19/2023 19:38:19: On death False
+
+[Info   : Unity Log] 09/19/2023 19:38:51: Starting respawn
+
+[Warning: Unity Log] 09/19/2023 19:38:51: Local player destroyed
+
+[Info   : Unity Log] 09/19/2023 19:38:51: tip:$loadscreen_tip25
+
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Warning: Unity Log] 09/19/2023 19:38:51: Missing stat for guardian power: 
+
+[Info   : Unity Log] 09/19/2023 19:38:51: Skipping unloading unused assets
+
+[Info   : Unity Log] 09/19/2023 19:38:51: Starting music boss_queen
+
+[Info   : Unity Log] 09/19/2023 19:38:55: Stopped music boss_queen at 2199590
+
+[Info   : Unity Log] 09/19/2023 19:38:55: Resumed music boss_queen at 2199590
+
+[Info   : Unity Log] 09/19/2023 19:39:02: Grave should fit in inventory, loot all
+
+[Info   : Unity Log] 09/19/2023 19:39:02: Player 4045577853 wants to takeall from Player_tombstone(Clone)   im: 4045577853
+
+[Info   : Unity Log] 09/19/2023 19:39:03: Grave should fit in inventory, loot all
+
+[Info   : Unity Log] 09/19/2023 19:39:03: Player 4045577853 wants to takeall from Player_tombstone(Clone)   im: 4045577853
+
+[Info   : Unity Log] 09/19/2023 19:39:32: Placed locations in zone -5,-5  duration 0 ms
+
+[Warning: Unity Log] 09/19/2023 19:39:33: Trying to add invalid pin type: 317
+
+[Info   : Unity Log] 09/19/2023 19:39:46: Rel vel 3,721672
+
+[Info   : Unity Log] 09/19/2023 19:39:47: Rel vel 3,644505
+
+[Info   : Unity Log] 09/19/2023 19:39:52: Starting respawn
+
+[Warning: Unity Log] 09/19/2023 19:39:52: Local player destroyed
+
+[Info   : Unity Log] 09/19/2023 19:39:52: tip:$loadscreen_tip20
+
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Warning: Unity Log] 09/19/2023 19:39:52: Missing stat for guardian power: 
+
+[Info   : Unity Log] 09/19/2023 19:39:52: Skipping unloading unused assets
+
+[Info   : Unity Log] 09/19/2023 19:39:52: Starting music boss_queen
+
+[Info   : Unity Log] 09/19/2023 19:39:56: Stopped music boss_queen at 4906271
+
+[Info   : Unity Log] 09/19/2023 19:39:56: Resumed music boss_queen at 4906271
+
+[Info   : Unity Log] 09/19/2023 19:40:16: Game - OnApplicationQuit
+
+[Info   : Unity Log] 09/19/2023 19:40:16: Shuting down
+
+[Info   : Unity Log] 09/19/2023 19:40:16: Uncompressed size 8388734
+
+[Info   : Unity Log] 09/19/2023 19:40:16: Compressed size 8324
+
+[Info   : Unity Log] 09/19/2023 19:40:16: Cloud Save: 11672 bytes. /characters/tmp.fch.new
+
+[Info   : Unity Log] 09/19/2023 19:40:16: Steam writing file chunks 1 / 1, (11672 bytes)
+
+[Info   : Unity Log] 09/19/2023 19:40:16: Steam Cloud Move: 907 bytes. /characters/tmp.fch -> /characters/tmp.fch.old
+
+[Info   : Unity Log] 09/19/2023 19:40:16: Steam writing file chunks 1 / 1, (907 bytes)
+
+[Info   : Unity Log] 09/19/2023 19:40:16: Steam Cloud Move: 11672 bytes. /characters/tmp.fch.new -> /characters/tmp.fch
+
+[Info   : Unity Log] 09/19/2023 19:40:17: Steam writing file chunks 1 / 1, (11672 bytes)
+
+[Info   : Unity Log] 09/19/2023 19:40:17: Considering autobackup. World time: 591,62, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 09/19/2023 19:40:17: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 09/19/2023 19:40:17: ZNet Shutdown
+
+[Info   : Unity Log] 09/19/2023 19:40:17: PrepareSave: clone done in 2ms
+
+[Info   : Unity Log] 09/19/2023 19:40:17: PrepareSave: ZDOExtraData.PrepareSave done in 3 ms
+
+[Info   :ServerSideMap] Map saved. Pin Count: 0
+[Info   :ServerSideMap] World .explored save path: /worlds/jewel
+[Info   : Unity Log] 09/19/2023 19:40:17: Unloading unused assets
+
+[Info   : Unity Log] 09/19/2023 19:40:17: Sending disconnect msg
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+[Info   : Unity Log] 09/19/2023 19:40:17: Stopping build thread
+
+[Warning: Unity Log] 09/19/2023 19:40:19: Local player destroyed
+
+[Info   : Unity Log] 09/19/2023 19:40:20: Steam manager on destroy
+
+[Info   : Unity Log] 09/19/2023 19:40:21: ZNet OnDestroy
+
+[Info   : Unity Log] 09/19/2023 19:40:21: Net scene destroyed
+
