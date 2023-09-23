@@ -33,13 +33,13 @@
 			"extraMaxMinionsCountPerPlayer": 6,
 			"spawnMinionsCount": 3,
 			"extraSpawnMinionsPerPlayer": 3,
-			"Creatures": [ "eb_helneck:0:1", "eb_helboar:0:0.8" ],
+			"Creatures": [ "Neck:0:1", "Boar:0:0.8" ],
 			"HpThreshold": 0.8,
 			"AttackCoolDownMultiplier": 1
 		},
 		"Eikthyr_clones": {
 			"Desc": "Eikthyr summons Heldyr to aid him in battle.",
-			"Enabled": true,
+			"Enabled": false,
 			"Cooldown": 75,
 			"Heal": 30,
 			"HpThreshold": 0.6,
@@ -204,7 +204,7 @@
 			"extraMaxMinionsCountPerPlayer": 1,
 			"spawnMinionsCount": 1,
 			"extraSpawnMinionsPerPlayer": 1,
-			"Creatures": [ "eb_wyvern:0:1" ],
+			"Creatures": [ "eb_hatchling:0:1" ],
 			"HpThreshold": 0.5,
 			"AttackCoolDownMultiplier": 0.4
 		},
