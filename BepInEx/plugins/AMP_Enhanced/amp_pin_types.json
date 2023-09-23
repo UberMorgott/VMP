@@ -21,20 +21,22 @@
       "size": 20,
       "object_ids": ["$piece_deposit_obsidian"]
     },
-    {
-      "type": 104,
-      "label": "Silver",
-      "icon": "silverore.png",
-      "size": 20,
-      "object_ids": ["$piece_deposit_silver", "$piece_deposit_silvervein"]
-    },
-    {
-      "type": 121,
-      "label": "Iron",
-      "icon": "ironscrap.png",
-      "size": 20,
-      "object_ids": ["$piece_mudpile"]
-    },
+    //{
+    //  "type": 104,
+    //  "label": "Silver",
+    //  "icon": "silverore.png",
+    //  "size": 20,
+    //  "object_ids": ["$piece_deposit_silver", "$piece_deposit_silvervein"]
+    //},
+    
+    //{
+    //  "type": 121,
+    //  "label": "Iron",
+    //  "icon": "ironscrap.png",
+    //  "size": 20,
+    //  "object_ids": ["$piece_mudpile"]
+    //},
+
     {
       "type": 122,
       "label": "Flametal",
